@@ -13,5 +13,9 @@ My current research investigates the sources of risk and return in financial mar
 * **Recoverable Equity**
     * [Link to paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5349016)
     * This paper demonstrates that equity holders demand higher returns from firms where a greater portion of investment value is expected to be lost in the event of bankruptcy. I show a robust inverse relationship between a firm's equity recovery rate and its subsequent risk-adjusted returns. This premium is distinct from well-known premiums related to financial leverage and distress risk.
+ 
+* **Time-Series Currency Volatility Risk Premium**
+    * This paper investigates the predictive power of the Currency Volatility Risk Premium (VRP) for individual currency returns over time. It shows that the VRP can forecast currency appreciation, especially over longer horizons, and tends to be higher when an economy is in distress. A trading strategy that uses this information generates significant risk-adjusted returns, particularly in volatile market conditions.
+    * 
 
 I am passionate about applying rigorous quantitative methods to understand markets in general. Please feel free to get in touch if you would like to discuss my research.
